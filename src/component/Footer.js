@@ -116,7 +116,7 @@ export default function Footer() {
       <div className="footer-copy-rights">
         <p>© 2023 Copy rights: Pavan Kadagi</p>
         <p>User email pavan@gmail.com And Password pass.</p>
-        <p>Admin email admin@gmail.com And Password admin.</p>
+        <p>Click to <NavLink to='/admin' >Admin</NavLink> Admin email admin@gmail.com And Password admin.</p>
       </div>
     </FooterDiv>
   );
