@@ -1,0 +1,14 @@
+export const PRODUCT_LIST = "PRODUCT_LIST";
+export const SET_PRODUCT_LIST = "SET_PRODUCT_LIST";
+export const SORT_PRODUCT="SORT_PRODUCT";
+export const RANGE_PRODUCT='RANGE_PRODUCT';
+export const FILTERING_PRODUCTS = 'FILTERING_PRODUCTS';
+
+
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const REMOVE_FROM_CART='REMOVE_FROM_CART';
+export const QUANTITY = 'QUANTITY';
+export const SET_INCREASE = 'SET_INCREASE'
+export const SET_DECREASE = 'SET_DECREASE'
+export const SUB_TOTAL = "SUB_TOTAL"
+export const CLREAR_CART = "CLREAR_CART"
